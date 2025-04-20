@@ -49,9 +49,9 @@ export default function App() {
 
       <div className="flex justify-center mt-4">
         <img
-          src="assets/ChatGPT Image Apr 12, 2025, 01_50_19 AM.png"
+          src="public/priyanshimagered.png"
           alt="Priyansh's photo"
-          className="rounded-full w-40 h-40 object-cover shadow-lg border-4 border-gray-800"
+          className="rounded-full w-32 h-32 sm:w-40 sm:h-40 object-cover shadow-lg border-4 border-gray-800"
         />
       </div>
 
